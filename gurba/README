@@ -1,6 +1,21 @@
-Welcome to Sirdude's(aka Kent Mein) branch of the Gurbalib mudlib.
+Welcome to the EvilMog Branch (Dustin Heywood) of the Sirdude's(aka Kent Mein)
+branch of the Gurbalib mudlib.
+
 An lpmud mudlib for the DGD driver.
 
+---BEGIN MOG---
+This branch has been heavily modified from the sirdude branch to include
+MXP, GMCP, Disable Magic and mess with the game balance for DEFCON 28.
+
+I strongly recommend using a tool like beyond compare to check the
+differences from mainline gurba.
+
+Special thanks to Dave Shay for the loan of the Coremud.org areas, as
+I do not have the rights to that content I have ensured it was removed
+from the open source release.
+---END MOG---
+
+--- Begin Kent---
 I played on various muds in my college years and am a UNIX Sys Admin.  
 I've been playing lots of minecraft with my kids lately and want them
 to get into UNIX and programming.  So I started tinkering with muds
@@ -33,3 +48,4 @@ Feel free to email me with comments/suggestions/questions:
 
 				Kent Mein
 				mein@umn.edu
+---End Kent---
