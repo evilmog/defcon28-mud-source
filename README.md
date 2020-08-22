@@ -7,3 +7,8 @@ This is technically Gurbalib running on DGD, gurbalib is under a do whatever you
 DGD is AGPL.
 
 Gurba-gen is also released under a do whatever you want license
+
+# Required links
+https://github.com/sirdude/gurbalib
+
+https://github.com/dworkin/dgd
