@@ -12,3 +12,6 @@ Gurba-gen is also released under a do whatever you want license
 https://github.com/sirdude/gurbalib
 
 https://github.com/dworkin/dgd
+
+# Submit an area
+https://github.com/evilmog/defcon-areatemplate
