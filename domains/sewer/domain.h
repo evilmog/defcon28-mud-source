@@ -1,2 +1,0 @@
-#define DIR "/domains/sewer"
-

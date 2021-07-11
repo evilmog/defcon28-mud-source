@@ -1,0 +1,104 @@
+   Entrance To Steam Rooms
+
+   You are in a small enclosed room with glass walls. Outside, you can
+   see nothing but steam beyond the walls. This appears to be some sort
+   of boiler room beneath the hydroelectric generators, but you don't
+   see any signs of such a boiler save for the steam all around. Somehow
+   you don't feel safe in this area.
+
+   You may return to the hydroelectric generators above by going up.
+   Otherwise, exits to the west, southeast and southwest lead to outside
+   the relative safety of this glass-enclosed room.
+
+   A panel here reads: Safety Locks Engaged
+   Apparently, only one person can be in the steam rooms at a time.
+
+Exits: west, up, southwest, southeast
+
+   Steam Room
+
+   There appears to be steam filling up the entire place, but you can't
+   determine where it's coming from. A million shadows move in the
+   light of the shifting steam, and you have no way to know which is
+   real and which is not.
+
+Exits: None
+
+Entrance To Steam Rooms	[W|U|SW|SE]
+190/190 109/126 1087> sw
+   Steam Room
+
+   You try your best to look around you, but thick steam from
+   around are hindering your vision. It's hot, and you can't
+   help but feel so enclosed and enveloped by the thick steam.
+
+Exits: None
+
+190/190 110/126 1087> se
+   Steam Room
+
+   A dark room filled with steam can be a dangerous place. You have no
+   idea what's wandering around here, and you can't even see beyond a few
+   feet in this thick steamy mist. Anything can ambush you, and you might
+   not know anything about it until you're dead.
+
+Exits: None
+190/190 125/126 1087> e
+   Steam Room
+
+   The thick steam envelopes you like a heavy fog, damping you slightly
+   while making you feel uncomfortably warm. It's like something is
+   boiling a huge kettle of water here. Visibility is very very low, as
+   you can hardly see your hands in front of you.
+
+Exits: None
+
+60,80,-20
+190/190 126/126 1087> s
+   Steam Room
+
+   You can't see much of anything, only the abundant steam flowing all
+   over your body. Lights are present, but they've been too distorted by
+   the huge amount of vapour to make any sense. All they do is cause you
+   to see strange shadows moving around you.
+
+Exits: None
+
+190/190 126/126 1087> s
+   Steam Room
+
+   There seems to be a weird goatish smell in the air, but with the thick
+   suffocating mist all around you, you can't really be sure. What's more
+   you know that the steam's hot and humid conditions tend to overheat
+   the mind, making you imagine things.
+
+Exits: None
+190/190 126/126 1087> ne
+   Steam Room
+
+   Indistinguishable sounds echo all around you, their original locations
+   lost to you by the acoustic and visual interference of the thick misty
+   steam. Shadows flit mysteriously in the shifting light. You can't tell
+   if it's your imagination or if it's for real.
+
+Exits: None
+190/190 126/126 1087> w
+   Steam Room
+
+   You can't see much of anything, only the abundant steam flowing all
+   over your body. Lights are present, but they've been too distorted by
+   the huge amount of vapour to make any sense. All they do is cause you
+   to see strange shadows moving around you.
+
+Exits: None
+190/190 125/126 1087> n
+%^RESET%^   Steam Room
+
+%^CYAN%^   The thick steam envelopes you like a heavy fog, damping you slightly
+   while making you feel uncomfortably warm. It's like something is
+   boiling a huge kettle of water here. Visibility is very very low, as
+   you can hardly see your hands in front of you.
+
+%^HWHITE%^Exits: %^HCYAN%^None
+
+

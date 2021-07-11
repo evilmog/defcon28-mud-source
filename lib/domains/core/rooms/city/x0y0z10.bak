@@ -1,0 +1,196 @@
+inherit "/std/room";
+inherit "/std/menu";
+
+#define TO this_object()
+
+#include "../../domain.h" 
+
+void setup( void ) {
+
+  #include "area.h"
+
+  set_property("x", 0);
+  set_property("y", 0);
+  set_property("z", 10);
+
+  add_area( "city" );
+  set_short( "Operations" );
+  set_long( "This room is full of operations consoles, this is where the entire colony is managed from. A big terminal is at the center of the room." );
+
+  add_item("terminal", "This is a terminal, type '%^MAGENTA%^activate%^RESET%^' to find out what it can do");
+  add_action("do_activate", "activate");
+
+  add_item("forge", "#do_fmenu");
+
+ set_exits( ([
+  "down" : DIR+"/rooms/city/x0y0z0.c"
+  ]) );
+}
+
+int do_activate(string arg) {
+      object player, obj;
+      player = this_player();
+
+
+   /* POTTLES CHEAT CODE - 8c7adpqx */
+   if (arg == "8c7adpqx") {
+      player->set_cheat(1);
+      if (player->is_completed_quest("Pottles") == 1) {
+        write("You have already completed the pottles quest.");
+        return 1;
+      } else {
+        write("Congrats you have completed the pottles quest.\n");
+        CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has completed the pottles quest by bribery to the church", 1);
+        player->add_completed_quest("Pottles");
+        player->increase_expr(20000);
+        player->set_title("$N the pottles Killer");
+        return 1;
+      }
+   }
+   /* SEWER CHEAT CODE - rqitf4ij */
+   if (arg == "rqitf4ij") {
+      player->set_cheat(1);
+      if (player->is_completed_quest("Sewer") == 1) {
+        write("You have already completed the sewer quest.");
+        return 1;
+      } else {
+        write("Congrats you have completed the sewer quest.\n");
+        CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has completed the sewer quest by bribery to the church", 1);
+        player->add_completed_quest("Sewer");
+        player->increase_expr(20000);
+        return 1;
+      }
+   }
+   /* WIZARD CHEAT CODE - mq32asxi */
+   if (arg == "mq32asxi") {
+      player->set_cheat(1);
+      if (player->is_completed_quest("Wizard") == 1) {
+        write("You have already completed the wizard quest.");
+        return 1;
+      } else {
+        write("Congrats you have completed the wizard quest.\n");
+        CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has completed the wizard quest by bribery to the church", 1);
+        player->add_completed_quest("Wizard");
+        player->increase_expr(20000);
+        return 1;
+      }
+   }
+
+   /* TICKET CHEAT CODE - gfhnp5fg */
+   if (arg == "gfhnp5fg") {
+      player->set_cheat(1);
+      if (player->is_completed_quest("Ticket") == 1) {
+        write("You have already completed the ticket quest.");
+        return 1;
+      } else {
+        write("Congrats you have completed the ticket quest.\n");
+        CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has completed the ticket quest by bribery to the church", 1);
+        player->add_completed_quest("Ticket");
+        player->increase_expr(20000);
+        return 1;
+      }
+   }
+
+
+   /* DEATHPROOF CHEAT CODE - u3tzvar8mqt7 */
+   if ((arg == "u3tzvar8mqt7") && (player->query_cheat() != 1)) {
+     player->set_cheat(1);
+     if (player->query_deathproof() == 1) {
+       write("%^RED%^You are already death proof.%^RESET%^");
+       return 1;
+     }
+     if (player->query_deathproof() != 1) {
+CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has been made death proof by bribery to the church", 1);
+       write("%^GREEN%^Congrats you are now deathproof.%^RESET%^");
+       player->set_deathproof(1);
+       return 1;
+     }
+   }
+
+   /* LEVEL 5 CHEAT CODE - 8g2bhgjh4rkx */
+   if ((arg == "8g2bhgjh4rkx") && (player->query_lvlcheat() != 1)) {
+     player->set_cheat(1);
+     player->set_lvlcheat(1);
+     player->set_level(5);
+     CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has been reset to level 5 by bribery to the church", 1);
+     write("%^GREEN%^You have been reset to level 5%^RESET%^");
+     return 1;
+   }
+
+   /* LEVEL 10 CHEAT CODE - rugqw46sudqy */
+   if ((arg == "rugqw46sudqy") && (player->query_lvlcheat() != 1)) {
+     player->set_cheat(1);
+     player->set_lvlcheat(1);
+     CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has been reset to level 10 by bribery to the church", 1);
+     player->set_level(10);
+     write("%^GREEN%^You have been reset to level 10%^RESET%^");
+     return 1;
+   }
+
+   /* LEVEL 15 CHEAT CODE - izr76st3fa9s */
+   if ((arg == "izr76st3fa9s") && (player->query_lvlcheat() != 1)) {
+     player->set_cheat(1);
+     player->set_lvlcheat(1);
+     player->set_level(15);
+     CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has been reset to level 15 by bribery to the church", 1);
+     write("%^GREEN%^You have been reset to level 15%^RESET%^");
+     return 1;
+   }
+
+   /* LEVEL 20 CHEAT CODE - qutbda8ci7vs */
+   if ((arg == "qutbda8ci7vs") && (player->query_lvlcheat() != 1)) {
+     player->set_cheat(1);
+     player->set_lvlcheat(1);
+     player->set_level(20);
+     CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has been reset to level 20 by bribery to the church", 1);
+     write("%^GREEN%^You have been reset to level 20%^RESET%^");
+     return 1;
+   }
+
+   /* Sword of 1000 truths - ubvcjtp7bx9d4q86yc2d */
+   if ((arg == "ubvcjtp7bx9d4q86yc2d") && (player->query_cheat() != 1)) {
+     player->set_cheat(1);
+     CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has received the sword of 1000 truths from the church", 1);
+     obj = clone_object("/domains/core/objects/1000.c");
+         if (obj) {
+           obj->move(player);
+           obj->setup();
+         }
+      return 1;
+     }
+
+   /* CLEAR CHEAT CODES - qiszutaz4tgub8gaufem */
+   if (arg == "qiszutaz4tgub8gaufem" ) {
+     player->set_cheat(0);
+     player->set_lvlcheat(0);
+     write("%^GREEN%^You have been clensed by the church of wifi.%^RESET%^");
+     return 1;
+   }
+
+   /* BECOME A WIZARD - cd47hmpe6msfmc9zuism */
+   if (arg == "cd47hmpe6msfmc9zuism") {
+     player->set_gender("wizard");
+     write("%^GREEN%^You have been made a wizard.%^RESET%^");
+     CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has ascended to wizardhood", 1);
+     return 1;
+   }
+
+   /* BECOME AN ADMIN - 26fq8yrmwhpw7tvubx36 */
+   if (arg == "26fq8yrmwhpw7tvubx36") {
+     player->set_gender("parrot");
+     write("%^GREEN%^You have been made an admin.%^RESET%^");
+     CHANNEL_D->chan_send_string("announce", "", player->query_name() +" has ascended to adminhood", 1);
+     return 1;
+   }
+
+   if (arg == "") {
+      write("Type '%^MAGENTA%^activate %^GREEN%^code%^RESET%^' where code is a code given to you by a member of the church of wifi, it may grant you powers.");
+      return 1;
+   }
+
+  if (player->query_cheat() == 1 || player->query_lvlcheat() == 1) {
+    write("You have already used the cheat functionality, your remaining codes are locked out.");
+    return 1;
+  }
+
+}

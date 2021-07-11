@@ -1,0 +1,35 @@
+long_desc "A boring player without a description."
+level 1
+quests ({0|})
+base_stats ([6|"cha":25,"con":6,"dex":15,"int":30,"str":4,"wis":11,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 26
+max_hp 26
+cur_mana 35
+max_mana 31
+cur_end 57
+max_end 41
+player_age 222
+killed_by ([0|])
+wimpy_dir ""
+gender "other"
+race "human"
+followers ({0|})
+living_name "aa"
+autoload_string "*^!"
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"go east ","go south ","go west ","go north ","go south ","go west ","go east ","go west ","go south ","go west ","crypto","go south ","go north ","go west ","go east ","order","help","cmds","time","who",})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1600878687
+ansi 1
+lastmined 1600878764
+minelocation "/domains/woodland/rooms/mine.c"
+custom_colors ([0|])
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

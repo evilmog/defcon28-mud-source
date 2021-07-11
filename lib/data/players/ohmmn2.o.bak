@@ -1,0 +1,43 @@
+banes ({0|})
+long_desc "A boring player without a description."
+level 1
+quests ({8|"NewbieVille","Woodland","Wizard","Pottles","Sewer","Parrot","Evil","Ticket",})
+base_stats ([6|"cha":25,"con":21,"dex":23,"int":29,"str":23,"wis":23,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 41
+max_hp 41
+cur_mana 43
+max_mana 43
+cur_end 64
+max_end 64
+player_age 56182
+kills 113
+killed_by ([3|1601182069:"/domains/core/monsters/child.c",1601182418:"/domains/core/monsters/child.c",1601182588:"/domains/core/monsters/child.c",])
+wimpy_dir ""
+gender "male"
+race "hacker"
+followers ({0|})
+living_name "ohmmn2"
+autoload_string "*^!"
+skills ([3|"combat/blunt/small":36,"combat/defense":108,"combat/sharp/small":95,])
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"set start_room=/domains/dungeon/rooms/8-b","recall","press button","set start_room=/domains/required/rooms/start","recall","look Evilmog","cmds","consider Evilmog","go north ","go west ","claim","cmds","help /daemons/data/evil/mine_d.o","help /sys/daemons/flag_d","help /sys/daemons/flag_d.o","help /sys/daemons/flag_d.c","help /sys/daemons/data/flag_d.c","help /daemons/data/flag_d.c","help /daemons/flag_d.c","help /sys/daemons/data/flag_secure_d.o",})
+real_name "Jonathan"
+email_address "Jonathan.Oman@ibm.com"
+environment_variables ([1|"cwd":"/",])
+title "$N the %^EXT_196%^Clone%^RESET%^"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1601299730
+ansi 1
+lastmined 1601063468
+minelocation "/domains/core/rooms/westmine/x-630y0z0.c"
+minestate 1
+q7_tracker 255
+custom_colors ([0|])
+start_room "/domains/required/rooms/start"
+autoload 1
+woodland_kills ({17|1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,})
+key_tracker ({8|1,1,1,1,1,1,1,1,})

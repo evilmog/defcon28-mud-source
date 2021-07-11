@@ -1,0 +1,34 @@
+long_desc "A boring player without a description."
+level 1
+quests ({0|})
+base_stats ([6|"cha":32,"con":27,"dex":19,"int":33,"str":10,"wis":33,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 47
+max_hp 47
+cur_mana 53
+max_mana 53
+cur_end 66
+max_end 66
+player_age 1076
+killed_by ([0|])
+wimpy_dir ""
+gender "male"
+race "hacker"
+followers ({0|})
+living_name "shadyman"
+autoload_string "*^!"
+skills ([0|])
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({7|"who","score","set","gossip muhaha","gossip so you're saying I should go pk mode and troll anyone who does the same?","poke test","poke test648",})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1604620691
+ansi 1
+custom_colors ([0|])
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

@@ -1,0 +1,32 @@
+long_desc "A boring player without a description."
+level 1
+quests ({0|})
+base_stats ([6|"cha":1,"con":27,"dex":10,"int":28,"str":1,"wis":25,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 55
+max_hp 53
+cur_mana 45
+max_mana 45
+cur_end 79
+max_end 57
+player_age 918
+killed_by ([0|])
+wimpy_dir ""
+gender "male"
+race "fed"
+living_name "plazuzu"
+autoload_string "*^!"
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"help /flag.txt","help ../flag.txt","help /README","help","help bugs","help /sys/daemons/data/users/","help /data/banished/wizard","help ./data/banished/test","help /data/banished/test","help /data/messages/motd","help /pub/novemberkilo/scripts/parse_stats.gawk","help /flag.txt","help /cmds/readme.txt","help wiz/cd.c","help /sys/cmds/readme.txt","help /sys/cmds/wiz/readme.txt","help /sys/cmds/wiz/flag.txt","help /sys/cmds/admin/flag.tt","help /sys/cmds/flag.txt","help /sys/cmds/admin/flag.txt",})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1600876068
+ansi 1
+custom_colors ([0|])
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

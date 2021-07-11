@@ -1,0 +1,192 @@
+The engine powering the lift revs up as you step inside.
+
+     Seldom Used Storeroom
+
+     You are standing in a dirty and damp storeroom, illuminated
+     by a solitary bulb.  Shadows are cast about the room but you
+     can see that this must be a storeroom for useless junk.
+     The walls are smooth and plain except for the east
+     wall which has a small access panel.  Next to the
+     panel, the control module has been opened and wires protrude
+     like spaghetti.
+
+     A clunky old turbolift leads up to the storage closet.
+
+
+You move from the hyperlift, and immediately the unit rushes away to assist
+another dome traveler.
+-10,-10,-10
+Seldom Used Storeroom	[U]
+220/220 126/126 1622> fiddle wires
+You jiggle and fiddle and then whack the module a few times.  There is a
+crackle and then the smell of burning ozone and you hear a motor groan to
+life.  The access panel squeaks back on its track and you can now exit to
+the east.
+
+
+     A Forgotten Corridor
+
+     This corridor has a layer of dust and dirt on its floor.
+     There is a dampness in the air and you swear you can
+     smell the faint odor of pine needles from the east.
+     There is an access panel back to the west that looks
+     almost like it may be operational.
+
+     A half-hidden path leads roughly south to a small alcove.
+
+Exits: west, south, east
+
+220/220 126/126 1622> s
+     Atrium Alcove
+
+     Somehow a small portion of the larger atrium to the
+     east was split off, resulting in this cozy alcove.
+     There is a large tangle of growth to the east which
+     makes passage to the main atrium impossible.
+
+     There is an odd pile of rocks here, shaped like a
+     large chair or throne, that may be covering a hole
+     of some sort.  You might be able to squeeze through.
+
+Exits: north
+
+220/220 126/126 1622> enter hole
+You enter a large hole.
+
+Secret Passage
+
+There is a hole in the ceiling you can enter to go back to the hidden
+atrium. It looks tough to climb though. An odd space on the wall looks
+slime free. There are rice crumbs and slime trails heading east.
+
+Exits: east
+
+A small weevil
+Weevil
+
+220/220 126/126 1622> look weevil
+
+You look over the male amphibian.
+This is an abnormal size weevil. It's legs have yellow and green colored
+claws. Slime drools from it's mouth. This particular weevil almost looks
+like it has some kind of brand on it's back, but it moves around too
+quickly for you to get a clear view.  Something is wrong about this
+creature.
+Weevil has no missing limbs.
+He is in top shape.
+He is empty handed.
+210,-270,-10
+secret passage	[E]
+220/220 126/126 1622> look small weevil
+You do not notice that here.
+210,-270,-10
+secret passage	[E]
+220/220 126/126 1622> look small weevil
+You do not notice that here.
+210,-270,-10
+secret passage	[E]
+220/220 126/126 1622> look weevil 2
+
+You look over the male rodent.
+A small little weevil scurries about, eating rice crumbs. Its small little
+feet are dragging a trail of sticky slime around.
+Weevil has no missing limbs.
+He is in top shape.
+He is empty handed.
+210,-270,-10
+
+Hidden Passage
+
+The stench of slime fills the room. The hallway here is narrower than the
+entrance of this small cave, but appears to open up further to the east.
+The walls are coated with slime and pock marks.  Stalactites cover the
+ceiling like sharp spikes ready to fall on you.  The ground is completely
+uneven in this area, causing the pools of slime to form at odd angles and
+crevices.
+
+Exits: west, east
+
+You hear claws raking against stone, or metal.
+Three small weevils
+Weevil
+
+210,-270,-10
+Hidden passage	[W|E]
+
+Hidden Passage
+
+Slime saturates the walls and the floor heavily here. There appears to be
+several worm markings from weevils. The hallway closes together a little,
+making it hard to traverse through.  You can go back to the west, or trudge
+on further east.
+
+Exits: west, east
+
+Hidden Passage
+
+The slime on the wall continues to thicken as you travel in the passage.
+The passage curves to the south here, but there is a small barely
+noticeable passage to the north..  You hear a moaning sound in the
+distance. Although the walls open up more here, it's still not wide enough
+for complete comfort for most individuals.
+
+Exits: west, south, north
+
+Abandoned Storage Room
+
+This is an empty storage room, that would house tons of items.  It would
+appear that only small mutated cockroaches are here now.  There are chains
+laying all over the ground.  You gaze up reluctantly to the ceiling and
+notice that there is barely any light in this room, air is blowing from
+some kind of hole, but it's rather small.
+
+Exits: south
+
+Hidden Passage
+
+The hallway opens up wider here. There are noticeable footprints scattered
+about the slime on the floor.  There appears to be more rice crumbs
+everywhere.  There is a strange glow on the floor of the cave here. It
+appears to be covered with toxic sludge. You notice a large mark on the
+wall.  Perhaps if you take a closer look at the mark, you might be able to
+see what made it.
+
+Exits: south, north
+
+Hidden Passage
+
+The tunnel curves west and north here.  Slime and toxic sludge mix to form
+a very bright glowing green waste.  You notice a laser drill on the
+ground.. well, what's left of it.  The parts left don't look useful, but
+they still spark slightly.  Some stalactites have formed on the ceiling.
+
+Exits: west, north
+
+Hidden Passage
+
+This passage opens up to a wide steel door that is stuck almost closed.
+There is a huge empty clearing, where some sort of storage containers may
+have sat.  You notice parts of rods cluttering the floor.  The slime and
+sludge is relatively thick in large puddles.
+
+Entrance to Secret dump site
+
+The room feels funny, and smells odd. You notice a sturdy door that is
+almost closed, but stuck.  Some sort of sticky slime is all over the place
+here, leading into the room behind the door. You see a sign saying that the
+cylindrical rods have been moved to the Reactor storeroom.  You hear
+scraping noises somewhere close.
+
+Exits: east
+
+Hidden Dump site
+
+The smell is horrible, you can barely breathe.  A quick survey of the room
+shows you slime on everything, and almost a glow radiating from all the
+slime. Your compass is vibrating a little, and mechanical gear hums softly.
+You lift up your boot, but it's almost completely stuck to the ground.
+There is an almost visible exit to the north, and then there's back through
+the broken door, but the door looks like it may not hold out much longer
+even with that sturdy pipe holding it open, the metal groans slightly.
+
+Exits: north, east

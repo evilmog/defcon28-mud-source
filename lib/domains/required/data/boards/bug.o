@@ -1,0 +1,4 @@
+long_desc "Error.  Something went wrong.  Please Show a wizard this object or file a bug report with the \"bug\" command."
+board_id "bug"
+data_dir "/domains/required/data/boards"
+msgs ({1|({4|"Ohmmn2","The UNINITIATEDSNAKE flag doesn't work in the CTF.","Sat Sep 26 05:41:04 2020","bug\nThe UNINITIATEDSNAKE flag doesn't work on the CTF board.\n\n",}),})

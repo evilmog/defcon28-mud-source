@@ -1,0 +1,40 @@
+long_desc "A boring player without a description."
+level 5
+experience 49375
+quests ({0|})
+coins 62750
+base_stats ([6|"cha":24,"con":32,"dex":17,"int":21,"str":13,"wis":27,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 52
+max_hp 52
+cur_mana 47
+max_mana 47
+cur_end 69
+max_end 69
+player_age 15570
+killed_by ([0|])
+wimpy_dir ""
+gender "male"
+race "hacker"
+followers ({0|})
+living_name "ohmmn6"
+autoload_string "*^!"
+skills ([0|])
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"score","go west ","crypto","go east ","go south ","go west ","advance","score","go east ","go north ","go west ","crypto","set save_on_quit=0","set start_room=/domains/core/rooms/city/x0y0z0.c","go west ","go east ","crypto","set save_on_quit=1","go west ","crypto",})
+environment_variables ([1|"cwd":"/",])
+title "$N %^EXT_220%^Apprentice%^RESET%^"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1601044021
+ansi 1
+lastmined 1601044128
+minelocation "/domains/core/rooms/westmine/x-630y0z0.c"
+custom_colors ([0|])
+start_room "/domains/core/rooms/westmine/x-630y0z0.c"
+autoload 1
+save_on_quit 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})
