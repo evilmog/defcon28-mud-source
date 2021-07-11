@@ -1,0 +1,46 @@
+banes ({0|})
+long_desc "A boring player without a description."
+level 20
+experience 7330491
+quests ({1|"Woodland",})
+coins 1731865
+stocks ([1|"MOG":90300,])
+minerals ([0|])
+base_stats ([6|"cha":29,"con":18,"dex":30,"int":15,"str":27,"wis":19,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 38
+max_hp 38
+cur_mana 39
+max_mana 39
+cur_end 68
+max_end 68
+player_age 25146
+kills 30
+killed_by ([0|])
+wimpy_dir ""
+gender "other"
+race "hacker"
+followers ({0|})
+living_name "exash"
+autoload_string "/domains/core/objects/shop/armour/gauntlets20.c:wear^!/domains/core/objects/shop/armour/helmet20.c:wear^!/domains/core/objects/shop/armour/boots20.c:wear^!/domains/core/objects/shop/armour/gorget20.c:wear^!/domains/core/objects/shop/armour/gloves20.c:wear^!/domains/core/objects/shop/weapon/sword20.c:wield^!/domains/core/objects/shop/armour/faulds20.c:wear^!/domains/core/objects/shop/armour/armour20.c:wear^!/domains/core/objects/shop/armour/bracers20.c:wear^!*^!"
+skills ([3|"combat/defense":9,"combat/sharp/small":30,"mining":427,])
+hit_skill "combat/unarmed"
+searchpath ({3|"/cmds/player/","/sys/cmds/wiz/","/sys/cmds/admin/",})
+history ({20|"more /std/evil/advance.c","go north ","go northeast ","go east ","go south ","go east ","go south ","go east ","go south ","look ","more x-50y-80z0.c","more /std/evil/quest7.c","more x-50y-80z0-dead.c","home","out","go down ","chan cmd hist gossip","gossip Huh okay here's late, I'll be back tomorrow I think, however I'm quite busy now fixing up Powerstruggle MUD from MudOS 0.9 to FluffOS 2019 but I'll try to log in here too :)","gossip Thanks for the dev access, I'll send you my Github name if I find it lol","gossip Bye",})
+environment_variables ([2|"cwd":"/domains/core/rooms/city","cwf":"/sys/cmds/wiz/changes.c",])
+title "$N %^EXT_45%^Vice President%^RESET%^"
+channels ({4|"gossip","announce","dgd","wiz",})
+ignored ({0|})
+alias ([0|])
+last_login 1608498084
+ansi 1
+lastmined 1608044169
+minelocation "/domains/core/rooms/southmine/x0y-630z0.c"
+deathproof 1
+custom_colors ([0|])
+lives 1
+start_room "/domains/core/rooms/city/x40y-90z0.c"
+autoload 1
+woodland_kills ({17|1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,})
+key_tracker ({8|0,0,0,0,0,0,1,0,})
+careers ([1|"mining":"A",])

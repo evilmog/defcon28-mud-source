@@ -1,1 +1,0 @@
-#define DIR "/domains/gurba"

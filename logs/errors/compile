@@ -1,0 +1,5 @@
+Sun Sep 20 22:31:25 2020: DRIVER :/sys/obj/user.c, 286: syntax error
+Sun Sep 20 22:31:36 2020: DRIVER :/sys/obj/user.c, 286: syntax error
+Sun Sep 20 22:31:51 2020: DRIVER :/sys/obj/user.c, 286: syntax error
+Sun Dec 20 15:30:18 2020:exash:/sys/cmds/wiz/addchange.c, 20: undeclared variable CHANGES_D
+Sun Dec 20 15:38:04 2020:exash:/sys/cmds/wiz/changes.c, 34: undeclared variable CHANGES_D

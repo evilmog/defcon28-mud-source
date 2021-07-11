@@ -1,0 +1,31 @@
+long_desc "A boring player without a description."
+level 1
+quests ({0|})
+base_stats ([6|"cha":11,"con":25,"dex":28,"int":13,"str":12,"wis":17,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 45
+max_hp 45
+cur_mana 46
+max_mana 37
+cur_end 73
+max_end 73
+player_age 130
+killed_by ([0|])
+wimpy_dir ""
+gender "male"
+race "hacker"
+living_name "threechip"
+autoload_string "*^!"
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({0|})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+last_login 1608027382
+ansi 1
+custom_colors ([0|])
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

@@ -1,0 +1,93 @@
+Jul 10 21:58:30 ** DGD 1.6.12 running GurbaLib v0.52.
+Jul 10 21:58:30 ** Initializing...
+Jul 10 21:58:30 ** BOOT: loading /kernel/daemons/secure_d
+Jul 10 21:58:30 ** Registering security daemon : /kernel/daemons/secure_d
+Jul 10 21:58:30 ** BOOT: loading /kernel/daemons/compiler_d
+Jul 10 21:58:30 ** Registering compiler daemon : /kernel/daemons/compiler_d
+Jul 10 21:58:30 ** BOOT: loading /kernel/daemons/error_d
+Jul 10 21:58:30 ** Registering error daemon    : /kernel/daemons/error_d
+Jul 10 21:58:30 ** Starting init_d
+Jul 10 21:58:30 ** BOOT: loading /sys/daemons/init_d
+Jul 10 21:58:30 ** Setting up events
+Jul 10 21:58:30 ** BOOT: loading /daemons/event_d
+Jul 10 21:58:30 ** Loading daemons
+Jul 10 21:58:30 ** init: loading /daemons/schedule_d
+Jul 10 21:58:30 ** BOOT: loading /daemons/schedule_d
+Jul 10 21:58:30 ** init: loading /daemons/time_d
+Jul 10 21:58:30 ** BOOT: loading /daemons/time_d
+Jul 10 21:58:30 ** BOOT: loading /sys/daemons/domain_d
+Jul 10 21:58:30 ** init: loading /sys/daemons/user_d
+Jul 10 21:58:30 ** BOOT: loading /sys/daemons/user_d
+Jul 10 21:58:30 ** init: loading /sys/daemons/command_d
+Jul 10 21:58:30 ** BOOT: loading /sys/daemons/command_d
+Jul 10 21:58:30 ** Rehashing command paths
+Jul 10 21:58:30 ** /cmds/guild/fighter/		: 1
+Jul 10 21:58:30 ** /cmds/monster/		: 2
+Jul 10 21:58:30 ** /cmds/player/		: 75
+Jul 10 21:58:30 ** /cmds/spells/		: 2
+Jul 10 21:58:30 ** /sys/cmds/admin/		: 15
+Jul 10 21:58:30 ** /sys/cmds/wiz/		: 59
+Jul 10 21:58:30 ** Rehash done.
+Jul 10 21:58:30 ** init: loading /daemons/channel_d
+Jul 10 21:58:30 ** BOOT: loading /daemons/channel_d
+Jul 10 21:58:31 ** init: loading /daemons/object_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/object_d
+Jul 10 21:58:31 ** init: loading /daemons/skill_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/skill_d
+Jul 10 21:58:31 ** init: loading /daemons/race_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/race_d
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/fed
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/goon
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/hacker
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/human
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/bear
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/beaver
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/chickadee
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/child
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/chipmunk
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/coyote
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/fox
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/gerbil
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/grouse
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/mole
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/nympho
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/porcupine
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/rabbit
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/raccoon
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/rodent
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/skunk
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/spectre
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/squirrel
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/unicorn
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/vuln
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/wolf
+Jul 10 21:58:31 ** BOOT: loading /domains/required/objects/races/monsters/zombie
+Jul 10 21:58:31 ** init: loading /daemons/ansi_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/ansi_d
+Jul 10 21:58:31 ** init: loading /daemons/money_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/money_d
+Jul 10 21:58:31 ** init: loading /sys/daemons/banish_d
+Jul 10 21:58:31 ** BOOT: loading /sys/daemons/banish_d
+Jul 10 21:58:31 ** init: loading /daemons/siteban_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/siteban_d
+Jul 10 21:58:31 ** init: loading /daemons/guild_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/guild_d
+Jul 10 21:58:31 ** init: loading /daemons/language_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/language_d
+Jul 10 21:58:31 ** init: loading /daemons/emote_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/emote_d
+Jul 10 21:58:31 ** init: loading /daemons/parse_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/parse_d
+Jul 10 21:58:31 ** init: loading /daemons/quest_d
+Jul 10 21:58:31 ** BOOT: loading /daemons/quest_d
+Jul 10 21:58:31 ** init: loading /sys/daemons/linkdead_d
+Jul 10 21:58:31 ** BOOT: loading /sys/daemons/linkdead_d
+Jul 10 21:58:31 ** init: loading /domains/required/rooms/start
+Jul 10 21:58:31 ** BOOT: loading /domains/required/rooms/start
+Jul 10 21:58:31 ** BOOT: loading /domains/dungeon/objects/sign
+Jul 10 21:58:31 ** BOOT: loading /sys/daemons/log_d
+Jul 10 21:58:31 ** Done.
+Jul 10 21:58:46 ** New telnet connection from <unknown>:0
+Jul 10 22:00:34 ** New telnet connection from <unknown>:0
+Jul 10 22:00:38 ** Access to /daemons/data/evil/dark_d.o would have been denied, ignoring...
+Jul 10 22:00:38 ** Access to /daemons/data/evil/color_d.o would have been denied, ignoring...

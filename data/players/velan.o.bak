@@ -1,0 +1,38 @@
+banes ({0|})
+long_desc "A boring player without a description."
+level 1
+experience 6
+quests ({0|})
+base_stats ([6|"cha":25,"con":28,"dex":20,"int":21,"str":24,"wis":20,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 6
+max_hp 48
+cur_mana 45
+max_mana 40
+cur_end 24
+max_end 68
+player_age 354
+killed_by ([0|])
+wimpy_dir ""
+gender "male"
+race "hacker"
+hit_string "hit"
+followers ({0|})
+living_name "velan"
+autoload_string "*^!"
+skills ([1|"combat/unarmed":1,])
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"go east ","go north ","go south ","go north ","go west ","go east ","go west ","go north ","go down ","go north ","look ","go north ","go east ","go south ","go north ","go southeast ","go northwest ","go south ","recall","go north ",})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1601159543
+ansi 1
+custom_colors ([0|])
+start_room "/domains/core/rooms/city/x40y-90z0.c"
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

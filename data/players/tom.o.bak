@@ -1,0 +1,33 @@
+long_desc "A boring player without a description."
+level 1
+quests ({0|})
+base_stats ([6|"cha":18,"con":11,"dex":17,"int":10,"str":30,"wis":33,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 46
+max_hp 31
+cur_mana 53
+max_mana 53
+cur_end 63
+max_end 48
+player_age 1086
+killed_by ([0|])
+wimpy_dir ""
+gender "male"
+race "human"
+living_name "tom"
+autoload_string "*^!"
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"go east","go north","go east","go northeast","go east","go west","go southwest","go west","list","go east","go south","say hi","say newbie?","say what is newbie?","say newbie","say pay","say mining","say compass","compass","say ctf",})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1600871480
+ansi 1
+custom_colors ([0|])
+start_room "/domains/core/rooms/city/x40y-90z0.c"
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

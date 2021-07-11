@@ -1,0 +1,29 @@
+long_desc "A boring player without a description."
+level 1
+quests ({0|})
+base_stats ([6|"cha":13,"con":33,"dex":11,"int":28,"str":29,"wis":23,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 53
+max_hp 53
+cur_mana 43
+max_mana 43
+cur_end 64
+max_end 64
+player_age 64
+killed_by ([0|])
+wimpy_dir ""
+gender "male"
+race "hacker"
+living_name "blinkingthing"
+searchpath ({1|"/cmds/player/",})
+history ({0|})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+last_login 1602213164
+ansi 1
+custom_colors ([0|])
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

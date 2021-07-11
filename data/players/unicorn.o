@@ -1,0 +1,42 @@
+banes ({0|})
+long_desc "A boring player without a description."
+level 1
+experience 251
+quests ({0|})
+coins 150
+base_stats ([6|"cha":1,"con":27,"dex":17,"int":30,"str":8,"wis":18,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 53
+max_hp 53
+cur_mana 46
+max_mana 38
+cur_end 64
+max_end 64
+player_age 1568
+kills 1
+killed_by ([0|])
+wimpy_dir ""
+gender "female"
+race "fed"
+vulnerabilities ({0|})
+followers ({0|})
+living_name "unicorn"
+autoload_string "/domains/core/objects/1000.c:wield^!*^!"
+skills ([1|"combat/edge/small":1,])
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"go north ","go west ","go east ","go south ","go east ","go down ","go up ","go west ","go south ","go east ","go west ","go south ","crypto","go north ","go west ","go north ","go east ","go west ","crypto","go east ",})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1609469373
+ansi 1
+lastmined 1609471850
+minelocation "/domains/core/rooms/westmine/x-630y0z0.c"
+custom_colors ([0|])
+start_room "/domains/core/rooms/city/x40y-90z0.c"
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})

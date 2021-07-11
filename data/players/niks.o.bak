@@ -1,0 +1,33 @@
+long_desc "A boring player without a description."
+level 1
+quests ({0|})
+base_stats ([6|"cha":30,"con":25,"dex":17,"int":23,"str":16,"wis":15,])
+bonus_stats ([6|"cha":0,"con":0,"dex":0,"int":0,"str":0,"wis":0,])
+cur_hp 53
+max_hp 45
+cur_mana 51
+max_mana 35
+cur_end 80
+max_end 62
+player_age 1270
+killed_by ([0|])
+wimpy_dir ""
+gender "female"
+race "hacker"
+followers ({0|})
+living_name "niks"
+autoload_string "*^!"
+hit_skill "combat/unarmed"
+searchpath ({1|"/cmds/player/",})
+history ({20|"northwest","west","east","northeast","southwest","west","east","southeast","inventory ","help","help comm","help","help rules","help","help newbie","down","north","east","order","back",})
+environment_variables ([1|"cwd":"/",])
+title "$N the newbie"
+channels ({2|"gossip","announce",})
+ignored ({0|})
+alias ([0|])
+last_login 1601551269
+ansi 1
+custom_colors ([0|])
+autoload 1
+woodland_kills ({17|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,})
+key_tracker ({8|0,0,0,0,0,0,0,0,})
